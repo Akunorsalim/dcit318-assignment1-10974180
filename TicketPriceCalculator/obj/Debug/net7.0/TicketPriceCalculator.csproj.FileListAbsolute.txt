@@ -1,0 +1,15 @@
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/bin/Debug/net7.0/TicketPriceCalculator
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/bin/Debug/net7.0/TicketPriceCalculator.deps.json
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/bin/Debug/net7.0/TicketPriceCalculator.runtimeconfig.json
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/bin/Debug/net7.0/TicketPriceCalculator.dll
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/bin/Debug/net7.0/TicketPriceCalculator.pdb
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.csproj.AssemblyReference.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.AssemblyInfo.cs
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.dll
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/refint/TicketPriceCalculator.dll
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.pdb
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/TicketPriceCalculator.genruntimeconfig.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TicketPriceCalculator/obj/Debug/net7.0/ref/TicketPriceCalculator.dll
