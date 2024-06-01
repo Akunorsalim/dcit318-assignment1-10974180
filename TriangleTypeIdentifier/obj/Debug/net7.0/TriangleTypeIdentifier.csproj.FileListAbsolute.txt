@@ -1,0 +1,15 @@
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.deps.json
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.runtimeconfig.json
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.dll
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.pdb
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.csproj.AssemblyReference.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.AssemblyInfoInputs.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.AssemblyInfo.cs
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.dll
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/refint/TriangleTypeIdentifier.dll
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.pdb
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.genruntimeconfig.cache
+/Users/akunor/Projects/dcit318-assignment1-10974180/TriangleTypeIdentifier/obj/Debug/net7.0/ref/TriangleTypeIdentifier.dll
